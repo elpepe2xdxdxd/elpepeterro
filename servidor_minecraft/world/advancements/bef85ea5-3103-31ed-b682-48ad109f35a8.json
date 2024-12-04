@@ -988,6 +988,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-03 23:55:26 +0000",
+      "minecraft:soul_sand_valley": "2024-12-04 19:56:05 +0000",
       "minecraft:basalt_deltas": "2024-12-03 21:56:51 +0000"
     },
     "done": false
@@ -2198,6 +2199,18 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 00:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-04 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-04 19:57:00 +0000"
     },
     "done": true
   },
