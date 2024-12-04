@@ -1,0 +1,127 @@
+[02:26:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:26:03] [ServerMain/INFO]: Loaded 1337 recipes
+[02:26:03] [ServerMain/INFO]: Loaded 1448 advancements
+[02:26:03] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:26:03] [Server thread/INFO]: Loading properties
+[02:26:03] [Server thread/INFO]: Default game type: SURVIVAL
+[02:26:03] [Server thread/INFO]: Generating keypair
+[02:26:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:26:04] [Server thread/INFO]: Using epoll channel type
+[02:26:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:26:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:26:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:26:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:26:04] [Server thread/INFO]: Preparing level "world"
+[02:26:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:13] [Server thread/INFO]: Time elapsed: 8566 ms
+[02:26:13] [Server thread/INFO]: Done (8.986s)! For help, type "help"
+[02:27:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:27:42] [Server thread/INFO]: xXFLESH999Xx[/100.65.9.67:61437] logged in with entity id 16 at (-842.21973588198, 69.0, -162.39461048265326)
+[02:27:42] [Server thread/INFO]: xXFLESH999Xx joined the game
+[02:28:12] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> OAL
+[02:29:16] [Server thread/INFO]: WTO_EZZ[/100.101.239.100:52359] logged in with entity id 562 at (495.8618499961867, 73.0, -248.69999998807907)
+[02:29:16] [Server thread/INFO]: WTO_EZZ joined the game
+[02:29:23] [Server thread/INFO]: [Not Secure] <WTO_EZZ> hola panita
+[02:29:33] [Server thread/INFO]: Incorrect argument for command
+[02:29:33] [Server thread/INFO]: ...p WTO_EZZ xXFLESH999Xx <--[HERE]
+[02:29:35] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> ola brom
+[02:30:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:30:20] [Server thread/INFO]: /tp WTO_EZZ xXFLESH999Xx<--[HERE]
+[02:30:24] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> oye bro
+[02:30:27] [Server thread/INFO]: [Not Secure] <WTO_EZZ> dime
+[02:30:29] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> tepeate a mi
+[02:30:32] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> y dime
+[02:30:39] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> como encuentro el uon pi
+[02:30:49] [Server thread/INFO]: [Not Secure] <WTO_EZZ> void
+[02:31:46] [Server thread/INFO]: WTO_EZZ was slain by Piglin
+[02:31:51] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> xdd
+[02:33:25] [Server thread/INFO]: [Not Secure] <WTO_EZZ> psame
+[02:33:26] [Server thread/INFO]: [Not Secure] <WTO_EZZ> tus cords
+[02:33:33] [Server thread/INFO]: [Not Secure] <WTO_EZZ> me hago tp mediante eso
+[02:34:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:34:36] [Server thread/INFO]: tp<--[HERE]
+[02:34:46] [Server thread/INFO]: Teleported WTO_EZZ to xXFLESH999Xx
+[02:34:58] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> ola panam
+[02:35:01] [Server thread/INFO]: [Not Secure] <WTO_EZZ> holaa
+[02:35:02] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> mira
+[02:35:03] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> el mapa
+[02:35:18] [Server thread/INFO]: [Not Secure] <WTO_EZZ> no sale
+[02:35:21] [Server thread/INFO]: [Not Secure] <WTO_EZZ> una x?
+[02:35:23] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> que
+[02:35:30] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> ni idea
+[02:35:33] [Server thread/INFO]: [Not Secure] <WTO_EZZ> mira ahi
+[02:35:35] [Server thread/INFO]: [Not Secure] <WTO_EZZ> si sale una x
+[02:35:36] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> lo use ahi mismo en el barco
+[02:35:42] [Server thread/INFO]: [Not Secure] <WTO_EZZ> osea
+[02:35:43] [Server thread/INFO]: [Not Secure] <WTO_EZZ> antes
+[02:35:45] [Server thread/INFO]: [Not Secure] <WTO_EZZ> esatab como
+[02:35:47] [Server thread/INFO]: [Not Secure] <WTO_EZZ> mapa en blanc?
+[02:35:54] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> sim
+[02:36:00] [Server thread/INFO]: [Not Secure] <WTO_EZZ> XDD etonces
+[02:36:02] [Server thread/INFO]: [Not Secure] <WTO_EZZ> no es mapa del tesoro
+[02:36:06] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> d
+[02:36:09] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> ....
+[02:36:19] [Server thread/INFO]: [Not Secure] <WTO_EZZ> una foto pal feis
+[02:36:19] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> el one piece no es real...
+[02:36:20] [Server thread/INFO]: [Not Secure] <WTO_EZZ> flesj
+[02:36:34] [Server thread/INFO]: [Not Secure] <WTO_EZZ> yam
+[02:36:47] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> ahora
+[02:36:50] [Server thread/INFO]: [Not Secure] <WTO_EZZ> a matarnos
+[02:36:51] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> vamo a la base
+[02:37:12] [Server thread/INFO]: WTO_EZZ drowned
+[02:37:23] [Server thread/INFO]: xXFLESH999Xx drowned
+[02:38:16] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> olaa
+[02:38:19] [Server thread/INFO]: [Not Secure] <WTO_EZZ> hooalma
+[02:38:50] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> ciertto
+[02:38:52] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> ven
+[02:38:55] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> tengo esto
+[02:39:03] [Server thread/INFO]: [Not Secure] <WTO_EZZ> qq
+[02:39:26] [Server thread/INFO]: [Not Secure] <WTO_EZZ> aya eso
+[02:39:27] [Server thread/INFO]: [Not Secure] <WTO_EZZ> es para
+[02:39:30] [Server thread/INFO]: [Not Secure] <WTO_EZZ> la armadura de nederita
+[02:39:32] [Server thread/INFO]: [Not Secure] <WTO_EZZ> para hacerle
+[02:39:34] [Server thread/INFO]: [Not Secure] <WTO_EZZ> un diseño
+[02:39:37] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> aiaa
+[02:39:39] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> okei
+[02:39:49] [Server thread/INFO]: [Not Secure] <WTO_EZZ> durmamo
+[02:40:01] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> vale
+[02:40:55] [Server thread/INFO]: [Not Secure] <WTO_EZZ> buenos dias panita
+[02:41:54] [Server thread/INFO]: [Not Secure] <WTO_EZZ> tienes piedra flesh?
+[02:42:58] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> y este
+[02:43:05] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> y este frasco ominoso
+[02:43:18] [Server thread/INFO]: [Not Secure] <WTO_EZZ> broi
+[02:43:19] [Server thread/INFO]: [Not Secure] <WTO_EZZ> mi casa
+[02:43:21] [Server thread/INFO]: [Not Secure] <WTO_EZZ> vale mierda
+[02:43:24] [Server thread/INFO]: [Not Secure] <WTO_EZZ> se ve fea
+[02:43:25] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> qq
+[02:43:25] [Server thread/INFO]: [Not Secure] <WTO_EZZ> con madera
+[02:43:26] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> pq
+[02:43:29] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> avr
+[02:43:34] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> XD
+[02:43:43] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> bro
+[02:43:48] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> alch estaba bonita..
+[02:43:55] [Server thread/INFO]: [Not Secure] <WTO_EZZ> gracias bro
+[02:43:57] [Server thread/INFO]: [Not Secure] <WTO_EZZ> pero lo voy hacer
+[02:44:00] [Server thread/INFO]: [Not Secure] <WTO_EZZ> de la madera labrada
+[02:44:11] [Server thread/INFO]: [Not Secure] <xXFLESH999Xx> okei
+[02:44:23] [Server thread/INFO]: [Not Secure] <WTO_EZZ> alaverga
+[02:44:25] [Server thread/INFO]: [Not Secure] <WTO_EZZ> esta peor
+[02:44:26] [Server thread/INFO]: [Not Secure] <WTO_EZZ> esta mas fea
+[02:44:27] [Server thread/INFO]: [Not Secure] <WTO_EZZ> XDD
