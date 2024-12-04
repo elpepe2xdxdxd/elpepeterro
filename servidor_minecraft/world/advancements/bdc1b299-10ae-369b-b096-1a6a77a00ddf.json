@@ -820,6 +820,7 @@
       "cooked_porkchop": "2024-12-03 21:29:30 +0000",
       "mutton": "2024-12-03 20:37:59 +0000",
       "cooked_chicken": "2024-12-03 20:51:15 +0000",
+      "rotten_flesh": "2024-12-04 03:10:52 +0000",
       "cooked_mutton": "2024-12-03 20:39:36 +0000",
       "potato": "2024-12-03 21:38:34 +0000",
       "cooked_beef": "2024-12-03 20:53:15 +0000",
@@ -1437,7 +1438,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-03 23:35:07 +0000"
+      "minecraft:nether_wastes": "2024-12-03 23:35:07 +0000",
+      "minecraft:basalt_deltas": "2024-12-04 03:05:16 +0000"
     },
     "done": false
   },
@@ -1591,15 +1593,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-04 02:36:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-04 03:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-04 03:03:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-04 02:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
     },
     "done": true
   },
@@ -1612,6 +1650,18 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-04 02:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
     },
     "done": true
   },
