@@ -826,6 +826,7 @@
       "potato": "2024-12-03 21:38:34 +0000",
       "cooked_beef": "2024-12-03 20:53:15 +0000",
       "beef": "2024-12-03 20:45:22 +0000",
+      "melon_slice": "2024-12-04 23:32:46 +0000",
       "porkchop": "2024-12-03 20:37:10 +0000",
       "carrot": "2024-12-03 21:29:26 +0000"
     },
@@ -1594,19 +1595,61 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2024-12-04 03:03:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-04 02:36:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-04 02:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-04 02:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-04 02:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-04 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-04 03:03:07 +0000"
     },
@@ -1624,45 +1667,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_basalt": "2024-12-04 02:36:16 +0000"
+      "has_melon": "2024-12-04 23:31:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_quartz": "2024-12-04 03:03:07 +0000"
+      "has_melon": "2024-12-04 23:31:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_quartz": "2024-12-04 03:03:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-04 02:58:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-04 02:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2024-12-04 03:03:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2024-12-04 03:03:07 +0000"
+      "has_melon": "2024-12-04 23:31:36 +0000"
     },
     "done": true
   },
