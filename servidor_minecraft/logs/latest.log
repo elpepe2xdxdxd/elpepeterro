@@ -34,3 +34,11 @@
 [18:40:41] [Server thread/INFO]: Done (8.660s)! For help, type "help"
 [18:41:21] [Server thread/INFO]: WTO_EZZ[/100.101.239.100:51789] logged in with entity id 16 at (-931.8670229114186, 68.0, -880.8175877921341)
 [18:41:21] [Server thread/INFO]: WTO_EZZ joined the game
+[19:11:43] [Server thread/INFO]: WTO_EZZ lost connection: Disconnected
+[19:11:43] [Server thread/INFO]: WTO_EZZ left the game
+[19:12:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:18:23] [Server thread/INFO]: WTO_EZZ[/100.101.239.100:52368] logged in with entity id 3855 at (-931.0644403544064, 64.0, -875.9773832220852)
+[19:18:23] [Server thread/INFO]: WTO_EZZ joined the game
+[19:22:18] [Server thread/INFO]: Set WTO_EZZ's game mode to Spectator Mode
+[19:26:12] [Server thread/INFO]: Set WTO_EZZ's game mode to Survival Mode
+[19:29:50] [Server thread/INFO]: Set WTO_EZZ's game mode to Creative Mode
