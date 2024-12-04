@@ -414,6 +414,8 @@
       "minecraft:pillager": "2024-12-03 21:06:11 +0000",
       "minecraft:skeleton": "2024-12-03 20:12:25 +0000",
       "minecraft:piglin": "2024-12-04 01:25:27 +0000",
+      "minecraft:zombified_piglin": "2024-12-04 02:58:16 +0000",
+      "minecraft:magma_cube": "2024-12-04 02:58:36 +0000",
       "minecraft:piglin_brute": "2024-12-04 01:27:05 +0000",
       "minecraft:spider": "2024-12-03 21:09:38 +0000",
       "minecraft:zombie": "2024-12-03 20:19:06 +0000",
@@ -657,6 +659,7 @@
       "mutton": "2024-12-03 20:48:32 +0000",
       "apple": "2024-12-03 22:25:02 +0000",
       "cooked_chicken": "2024-12-03 20:58:19 +0000",
+      "rotten_flesh": "2024-12-04 02:58:46 +0000",
       "cooked_mutton": "2024-12-03 20:44:33 +0000",
       "glow_berries": "2024-12-03 20:17:15 +0000",
       "cooked_beef": "2024-12-03 23:53:14 +0000",
@@ -1918,6 +1921,18 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-04 01:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-04 03:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-04 02:53:59 +0000"
     },
     "done": true
   },

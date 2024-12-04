@@ -459,6 +459,7 @@
       "minecraft:pillager": "2024-12-03 21:08:28 +0000",
       "minecraft:cave_spider": "2024-12-03 23:59:03 +0000",
       "minecraft:skeleton": "2024-12-03 20:17:56 +0000",
+      "minecraft:zombified_piglin": "2024-12-04 02:57:53 +0000",
       "minecraft:spider": "2024-12-03 20:37:26 +0000",
       "minecraft:zombie": "2024-12-03 20:29:59 +0000",
       "minecraft:creeper": "2024-12-03 23:04:35 +0000",
@@ -1599,6 +1600,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-04 02:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-04 02:58:57 +0000"
     },
     "done": true
   },
